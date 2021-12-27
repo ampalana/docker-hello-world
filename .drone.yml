@@ -7,7 +7,7 @@ steps:
   image: plugins/docker
   settings:
     # registry: docker.io
-    repo: hrittik/docker-hello-world
+    repo: hrittik/docker-trial
     username:
       from_secret: docker_username
     password:
